@@ -89,7 +89,7 @@ decisões, solucionar problemas e gerar valor para o negócio.
   <tr>
     <td align="center" width="200">
 
-      <img src="./assets/google-cloud-data-analytics.png" width="160">
+      <img src="https://raw.githubusercontent.com/Buzatto96/Buzatto96/main/assets/google-cloud-data-analytics.png" width="160">
 
       <br><br>
 

@@ -31,7 +31,7 @@ decisões, solucionar problemas e gerar valor para o negócio.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,python,docker,github,html,linux,md,notion,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,github,notion,sqlite,vscode, " />
   </a>
 </p>
 

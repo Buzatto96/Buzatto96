@@ -86,31 +86,27 @@ decisões, solucionar problemas e gerar valor para o negócio.
 ## 🏆 Certificações
 
 <table>
-<tr>
+  <tr>
+    <td align="center" width="200">
 
-<td align="center" width="300">
+      <img src="./assets/google-cloud-data-analytics.png" width="160">
 
-<img src="https://img.icons8.com/color/96/google-cloud.png" width="90">
+      <br><br>
 
-<br><br>
+      <b>Análise de Dados do Google Cloud</b>
 
-<b>Google Cloud Data Analytics</b>
+      <br><br>
 
-<br>
+      Especialização — Coursera
 
-Especialização — Coursera
+      <br><br>
 
-<br><br>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2VOZLW6JYXD5">
+        <img src="https://img.shields.io/badge/VER%20CERTIFICAÇÃO-7F3FF2?style=for-the-badge">
+      </a>
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2VOZLW6JYXD5">
-
-<img src="https://img.shields.io/badge/Ver%20certificação-7F3FF2?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---

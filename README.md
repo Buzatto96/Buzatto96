@@ -11,6 +11,11 @@ e atualmente estou direcionando minha carreira para a área de dados.
 Tenho interesse em transformar dados em informações relevantes para apoiar
 decisões, solucionar problemas e gerar valor para o negócio.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,github,notion,sqlite,vscode, " />
+  </a>
+</p>
 ---
 
 ## 🚀 Sobre mim
@@ -24,16 +29,6 @@ decisões, solucionar problemas e gerar valor para o negócio.
 - ☁️ Estudos em Cloud Computing
 - 🤖 Interesse em Machine Learning
 - 📚 Sempre buscando aprender e desenvolver novas habilidades
-
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,github,notion,sqlite,vscode, " />
-  </a>
-</p>
 
 ---
 

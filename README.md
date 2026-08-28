@@ -111,34 +111,6 @@ decisões, solucionar problemas e gerar valor para o negócio.
 
 ---
 
-## 📂 Projetos em destaque
-
-### 📈 Análise de Ações — Itaú
-
-Projeto desenvolvido para análise da ação **ITUB4**, utilizando técnicas de
-análise de dados, indicadores financeiros e Machine Learning.
-
-**Principais tecnologias:**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Machine Learning`
-
-**Principais análises realizadas:**
-
-- 📊 Análise histórica da ação
-- 📈 Médias móveis
-- 📉 Bandas de Bollinger
-- 📊 RSI
-- 📈 MACD
-- 📉 Volatilidade
-- ⚠️ Value at Risk (VaR)
-- 📊 Drawdown
-- 🤖 Modelos de Machine Learning
-- 📈 Análise de retorno e risco
-
-🔗 **[Ver projeto no GitHub](SEU_LINK_DO_REPOSITORIO)**
-
----
-
 ## 🎯 Atualmente
 
 Estou buscando uma oportunidade na área de **Dados**, especialmente em posições
@@ -157,7 +129,7 @@ habilidades técnicas em **dados e tecnologia**.
 
 <p align="left">
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/nicolas-maximillian-buzatto-44118219b">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 

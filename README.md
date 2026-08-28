@@ -123,7 +123,7 @@ habilidades técnicas em **dados e tecnologia**.
 
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:nicolasbuzatto96@gmail.com.br">
 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 

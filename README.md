@@ -29,24 +29,10 @@ decisões, solucionar problemas e gerar valor para o negócio.
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" width="55" title="Python">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="55" title="VS Code">
-
-<img src="https://skillicons.dev/icons?i=sqlite" width="55" title="SQLite">
-
-<img src="https://skillicons.dev/icons?i=gcp" width="55" title="Google Cloud">
-
-</p>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,python,docker,github,html,linux,md,notion,postgres,mysql" />
+  </a>
 </p>
 
 ---
@@ -82,8 +68,6 @@ decisões, solucionar problemas e gerar valor para o negócio.
 - Tomada de decisão baseada em dados
 
 ---
-
-## 🏆 Certificações
 
 ## 🏆 Certificados 🏆
 

@@ -117,7 +117,7 @@ habilidades técnicas em **dados e tecnologia**.
 
 <p align="left">
 
-<a href="www.linkedin.com/in/nicolas-maximillian-buzatto-44118219b">
+<a href="https://www.linkedin.com/in/nicolas-maximillian-buzatto-44118219b/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 

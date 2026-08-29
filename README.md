@@ -13,7 +13,7 @@ decisões, solucionar problemas e gerar valor para o negócio.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,github,notion,sqlite,vscode, " />
+    <img src="https://skillicons.dev/icons?i=sqlite,python,vscode,github,notion " />
   </a>
 </p>
 ---
